@@ -1,4 +1,4 @@
-[  {
+{
     "id": 1,
     "username": "admin",
     "password": "demo",
@@ -11,4 +11,4 @@
     "occupation": "CEO",
     "companyName": "Unisot",
 
-  }]
+  }
