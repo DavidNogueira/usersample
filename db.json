@@ -1,6 +1,4 @@
 {
-    "User": [
-        {
     "id": 1,
     "username": "admin",
     "password": "demo",
@@ -12,6 +10,4 @@
     "fullname": "Stephan",
     "occupation": "CEO",
     "companyName": "Unisot"
-        }
-]
-  }
+}
